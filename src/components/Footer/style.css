@@ -1,6 +1,11 @@
 .footer a {
   text-decoration: none;
-  color: blue;
+  color: #007bb6;
+}
+
+.footer a:hover {
+  color: #fff;
+  transition: 0.3s;
 }
 
 .icons {

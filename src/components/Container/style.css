@@ -24,15 +24,26 @@
   position: relative;
   font-size: 1.2em;
   display: block;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .text h2 {
   font-size: 1.4em;
+  text-align: start;
 }
 
 .text p {
   font-size: 1em;
+}
+
+.text a {
+  text-decoration: none;
+  color: #007bb6;
+}
+
+.text a:hover {
+  color: #fff;
+  transition: 0.3s;
 }
 
 @media (max-width: 999px) {
