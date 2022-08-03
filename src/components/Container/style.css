@@ -1,36 +1,43 @@
 .container {
-    margin-top: 5vh;
-    text-align: justify;
-    padding: auto;
-    -webkit-margin-start: 10vh;
-    -webkit-margin-end: 10vh;
-    background-color: rgba(255, 255, 255, 0.1);
-    /* box-shadow: 10px 10px 20px 20px #04044a; */
-    position: relative;
-    min-height: 50vh;
-    border-radius: 15px;
-    margin-bottom: 40px;
+  margin-top: 5vh;
+  text-align: justify;
+  padding: auto;
+  -webkit-margin-start: 10vh;
+  -webkit-margin-end: 10vh;
+  background-color: rgba(255, 255, 255, 0.1);
+  /* box-shadow: 10px 10px 20px 20px #04044a; */
+  position: relative;
+  min-height: 50vh;
+  border-radius: 15px;
+  margin-bottom: 40px;
 }
 
 .title {
-    margin-top: 5vh;
-    text-transform: uppercase;
+  margin-top: 5vh;
+  text-transform: uppercase;
 }
 
 .text {
-    margin-inline-start: 15px;
-    margin-inline-end: 15px;
-    padding: 15px;
-    position: relative;
-    font-size: 1.2em;
-    display: block;
-    text-align: justify;
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+  padding: 15px;
+  position: relative;
+  font-size: 1.2em;
+  display: block;
+  text-align: justify;
 }
 
 .text h2 {
-    font-size: 1.4em;
+  font-size: 1.4em;
 }
 
 .text p {
-    font-size: 1em;
+  font-size: 1em;
+}
+
+@media (max-width: 999px) {
+  .container {
+    -webkit-margin-start: 3vh;
+    -webkit-margin-end: 3vh;
+  }
 }
