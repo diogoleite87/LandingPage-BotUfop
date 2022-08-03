@@ -20,8 +20,8 @@ export default function BotUfopRU () {
                         <p>A UFOP nem sempre atualiza o site do cardápio e mesmo quando atualiza, as vezes não atualizam "certo" e/ou não atualiza os 2 cardápios no dia.</p>
                     </>
                     <>
-                        <h2>Cardápio aparente esta repetido, o que pode ter acontecido?</h2>
-                        <p>Mesmo motivo apresentado acima, por mais que eu tenha tentado fazer varias funções que evitasse a pastagem do cardápio desatualizado, algumas poucas vezes podem acontecer de passar batido.</p>
+                        <h2>Cardápio aparenta esta repetido, o que pode ter acontecido?</h2>
+                        <p>Mesmo motivo apresentado acima, por mais que eu tenha tentado fazer varias funções que evitasse a postagem do cardápio desatualizado, algumas poucas vezes podem acontecer de passar batido.</p>
                     </>
                     <>
                         <h2>Legal, mas onde eu vejo a estrutura dele?</h2>
