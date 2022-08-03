@@ -1,0 +1,9 @@
+.navbar {
+    display: inline-block;
+    margin-top: 10vh;
+    position: relative;
+}
+
+.navbar a {
+    text-decoration: none;
+}
