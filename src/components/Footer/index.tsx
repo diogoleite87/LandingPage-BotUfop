@@ -12,7 +12,7 @@ export default function Footer() {
 
         <>
             <div>
-                <p>Site constrído em React <FontAwesomeIcon icon={faReact} /> e TypeScript!</p>
+                <p>Site construído em React <FontAwesomeIcon icon={faReact} /> e TypeScript!</p>
             </div>
             <div className='icons'>
                 <TwitterButton/>
