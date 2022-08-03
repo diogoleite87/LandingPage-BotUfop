@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faReact } from '@fortawesome/free-brands-svg-icons'
 import './style.css'
 
 import GitHubButton from '../GitHubButton'
@@ -9,6 +11,9 @@ export default function Footer() {
     return (
 
         <>
+            <div>
+                <p>Site constrído em React <FontAwesomeIcon icon={faReact} /> e TypeScript!</p>
+            </div>
             <div className='icons'>
                 <TwitterButton/>
                 <GitHubButton/>
