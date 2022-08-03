@@ -1,0 +1,13 @@
+.icon-linkedin {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid #171515;
+  color: #007bb6;
+  background: #fff;
+}
+
+.icon-linkedin:hover {
+  color: #fff;
+  background: #007bb6;
+  transition: 0.5s;
+}

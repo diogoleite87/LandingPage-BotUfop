@@ -1,0 +1,13 @@
+.icon-twitter {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid #171515;
+  color: #00acee;
+  background: #fff;
+}
+
+.icon-twitter:hover {
+  color: #fff;
+  background: #00acee;
+  transition: 0.5s;
+}

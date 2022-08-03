@@ -1,0 +1,13 @@
+.icon-instagram {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid #171515;
+  color: #fe4164;
+  background: #fff;
+}
+
+.icon-instagram:hover {
+  color: #fff;
+  background: #fe4164;
+  transition: 0.5s;
+}

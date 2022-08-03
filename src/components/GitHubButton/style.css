@@ -1,0 +1,13 @@
+.icon-github {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid #171515;
+  color: #171515;
+  background: #fff;
+}
+
+.icon-github:hover {
+  color: #fff;
+  background: #171515;
+  transition: 0.5s;
+}
