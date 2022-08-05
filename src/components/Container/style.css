@@ -4,8 +4,7 @@
   padding: auto;
   -webkit-margin-start: 10vh;
   -webkit-margin-end: 10vh;
-  background-color: rgba(255, 255, 255, 0.1);
-  /* box-shadow: 10px 10px 20px 20px #04044a; */
+  background-color: rgba(255, 255, 255, 0.1) !important;
   position: relative;
   min-height: 50vh;
   border-radius: 15px;
@@ -24,7 +23,6 @@
   position: relative;
   font-size: 1.2em;
   display: block;
-  /* text-align: justify; */
 }
 
 .text h2 {
@@ -33,6 +31,8 @@
 }
 
 .text p {
+  margin-top: 18px;
+  margin-bottom: 18px;
   font-size: 1em;
 }
 

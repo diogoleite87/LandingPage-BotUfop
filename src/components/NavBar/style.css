@@ -1,17 +1,22 @@
 .title-page {
-    font-size: 2.2em;
+  margin-top: 10px;
+  font-size: 2.2em;
 }
 
 .title-description {
-    margin-top: -15px;
+  margin-top: 5px;
 }
 
 .navbar {
-    display: inline-block;
-    margin-top: 4vh;
-    position: relative;
+  display: inline-block;
+  margin-top: 4vh;
+  position: relative;
 }
 
 .navbar a {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+.dark-mode p {
+  margin-bottom: 2px;
 }
