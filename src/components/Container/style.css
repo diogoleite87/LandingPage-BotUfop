@@ -42,7 +42,7 @@
 }
 
 .text a:hover {
-  color: #fff;
+  color: rgb(51, 158, 83);
   transition: 0.3s;
 }
 

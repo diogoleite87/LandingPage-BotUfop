@@ -7,11 +7,11 @@ export default function Home() {
                 <>
                     <>
                         <h2>Os BOTs são da UFOP?</h2>
-                        <p>Não! A UFOP não tem relação/vínculos com os BOTs em questão, foram feitos e são mantidos por um discente (Aluno). </p>
+                        <p>Não! A UFOP não tem relação/vínculos com os BOTs em questão, foram feitos e são mantidos por um discente (aluno). </p>
                     </>
                     <>
                         <h2>O criador ganha algo com eles?</h2>
-                        <p>Não! Foram construídos com intuito de que alguma forma ajude a comunidade acadêmica e também de mim (<a href="https://github.com/diogoleite87" target="_blank">criador</a>) colocar em prática os meus conhecimentos e estudos.</p>
+                        <p>Não! Foram construídos com intuito de que alguma forma ajude a comunidade acadêmica e também de mim (<a href="https://github.com/diogoleite87" target="_blank">Diogo Leite</a>) colocar em prática os meus conhecimentos e estudos.</p>
                     </>
                     <>
                         <h2>Se não ganha nada, como eles são mantidos?</h2>

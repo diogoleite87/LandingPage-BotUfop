@@ -2,7 +2,7 @@ import './style.css'
 import { ReactNode } from "react";
 
 interface IProps {
-    children ?: ReactNode
+    children?: ReactNode
     title: string
 }
 
